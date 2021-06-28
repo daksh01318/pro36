@@ -6,7 +6,7 @@ class Food{
 
     }
 
-    updateFoodStock(){
+    updateFoodStock(foodStock){
         this.foodStock=foodStock;
     }
 
